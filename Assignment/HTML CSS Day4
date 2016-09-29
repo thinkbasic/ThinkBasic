@@ -1,8 +1,8 @@
-<h1>오늘의 과제 : 다방 홈페이지 구현을 위한 HTML과 CSS 요소 설명하기</h1>
+오늘의 과제 : 다방 홈페이지 구현을 위한 HTML과 CSS 요소 설명하기
 
 
 
-<h2>HTML</h2>
+HTML
 
 
 <!DOCTYPE html>
@@ -86,7 +86,13 @@
 </body>
 </html>
 
-<h2>CSS</h2>
+
+
+
+
+
+
+CSS
 
 
 nav.navbar-no-margin

@@ -1,0 +1,194 @@
+***html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./fastcampus.css">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <nav class="gloabal_nav">
+      <div class="fixed">
+        <div class="nav_blink_up"></div>
+        <div class="wrapper local_nav clearfix">
+          <a href="#"><img src="imgs/logo.png" alt=""></a>
+          <ul class="nav_container clearfix">
+            <li><a href="#">할인 이벤트</a></li>
+            <li><a href="#">실무교육과정</a></li>
+            <li><a href="#">스쿨</a></li>
+            <li><a href="#">외국어</a></li>
+            <li><a href="#">기업교육</a></li>
+            <li><a href="#">인재채용</a></li>
+          </ul>
+          <a href="#" class="hamberger"><img src="imgs/hamberger.png" alt=""></a>
+        </div>
+      </div>
+      <div class="nav_blink_bottom">
+    </nav>
+  </header>
+
+  <section>
+    <div class="wrapper">
+      <div class="col-12 main_ad">
+        <img src="imgs/main_ad.png" alt="" class="ad">
+        <img src="imgs/left_point.png" alt="" class="left_point">
+        <img src="imgs/right_point.png" alt="" class="right_point">
+        <img src="imgs/btn.png" alt="" class="btn">
+      </div>
+      <div class="col-3 bottom_ad">
+        <div class="clearfix design1 white_first">
+          <img src="imgs/course.png" alt="" class="course">
+          <p>모집 중인 코스 보기</p>
+        </div>
+      </div>
+      <div class="col-3">
+        <div class="clearfix design1 white_second">
+          <img src="imgs/blog.png" alt="" class="blog">
+          <p>블로그</p>
+        </div>
+      </div>
+      <div class="col-3">
+        <div class="clearfix design2 black_first">
+          <img src="imgs/company2.png" alt="" class="company">
+          <p>기업 교육 문의</p>
+        </div>
+      </div>
+      <div class="col-3">
+        <div class="clearfix design2 black_second">
+          <img src="imgs/video2.png" alt="" class="video">
+          <p>온라인 강의</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrapper clearfix">
+      <div class="col-2 introduce">
+        <h2>곧 개강하는 코스</h2>
+      </div>
+      <dic class="col-10 introduce_line">
+      </dic>
+    </div>
+    <div class="introduce_blink_up"></div>
+    <div class="wrapper clearfix">
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/marketing.png" alt=""></a>
+        </div>
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/front.png" alt=""></a>
+        </div>
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/data.png" alt=""></a>
+        </div>
+        <div class="col-3 design3 blink_middle">
+              <a href="#"><img src="imgs/invest.png" alt=""></a>
+        </div>
+    </div>
+    <div class="wrapper clearfix">
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/brand.png" alt=""></a>
+        </div>
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/facebook.png" alt=""></a>
+        </div>
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/realstate.png" alt=""></a>
+        </div>
+        <div class="col-3 design3">
+              <a href="#"><img src="imgs/design.png" alt=""></a>
+        </div>
+    </div>
+    <div class="introduce_blink_down"></div>
+  </section>
+
+  <section>
+    <div class="wrapper clearfix">
+      <div class="col-2 contact">
+        <h2>Contact Info.</h2>
+      </div>
+      <dic class="col-10 contact_line">
+      </dic>
+    </div>
+    <div class="contact_blink_up"></div>
+    <div class="wrapper contact_container clearfix">
+      <div class="col-3 left">
+        <p class="info">Email: <a href="#"><strong>help@fastcampus.co.kr</strong></a><br>Phone: 02-501-9396</p>
+        <p class="time"><strong>[문의시간]</strong><br>월~금: 오전 10:00-오후 9:00<br>토~일: 오후 2:00-오후 09:00</p>
+        <p class="price"><strong>[수강료 입금계좌]</strong><br>우리은행 / 1005-902-393657<br>패스트트랙아시아(주)</p>
+      </div>
+      <div class="col-3">
+        <p class="address"><strong>[본관]</strong><br>서울시 강남구 도산대로4길 13<br>(서울시 강남구 논현1동 2-9)
+          <br>대기빌딩 지하 2층(사무실) / 1층 / 4층<br><em>*지하철 3호선 신사역 1번 출구</em></p>
+        <a href="#"><img src="imgs/main_map.png" alt="" class="address_image"></a>
+      </div>
+      <div class="col-3">
+        <p class="address"><strong>[별관]</strong><br>서울시 강남구 강남대로146길 33<br>(서울시 강남구 논현동 15-11)
+          <br>MH빌딩 3층<br><em>*지하철 3호선 신사역 1번 출구</em></p>
+        <a href="#"><img src="imgs/sub_map.png" alt="" class="address_image"></a>
+      </div>
+      <div class="col-3">
+        <p class="address"><strong>[신관]</strong><br>서울특별시 서초구 강남대로105길 12<br>(서울시 서초구 잠원동 8-12)
+          <br>MH빌딩 3층<br><em>*지하철 3호선 신사역 5번 출구</em></p>
+        <a href="#"><img src="imgs/new_map.png" alt="" class="address_image"></a>
+      </div>
+    </div>
+    <div class="contact_blink_down"></div>
+  </section>
+
+  <section>
+    <div class="wrapper clearfix">
+      <div class="col-2 newsletter">
+        <h2>NEWSLETTER</h2>
+      </div>
+      <dic class="col-10 newsletter_line">
+      </dic>
+    </div>
+    <div class="newsletter_blink_up"></div>
+    <div class="wrapper clearfix">
+      <div class="col-12">
+        <p class="news">패스트캠퍼스의 뉴스레터를 구독하시면, 간편하게 신규 교육과정 및 이벤트/세미나 소식을 메일로 받아보실수 있습니다!</p>
+        <form action="">
+          <input type="email" placeholder="email address" class="email"><br>
+          <a href="#"><button type="subscribe" class="subscribe">SUBSCRIBE</button></a>
+        </form>
+      </div>
+    </div>
+    <div class="newsletter_blink_down"></div>
+  </section>
+
+  <footer>
+    <div class="global_footer">
+      <div class="wrapper clearfix local_footer">
+        <div class="col-4">
+          <p class="title">FAST CAMPUS</p>
+          <p class="explanation">패스트트랙아시아(주)<br>패스트트랙아시아(주) 대표 : 박지용<br>패스트트랙 대표 : 이강민<br>개인정보책임관리자  이강민<br>
+            사업자번호 : 211-85-71188<br>통신판매업 신고 번호<br>: 제 2014-서울강남-01723호</p>
+        </div>
+        <div class="col-4">
+          <p class="title">CONTACT</p>
+          <p class="explanation">[ 결제 / 환불 / 계산서, 영수증 및 수강확인증 /<br>강의장 위치 문의 시 ]<br>이메일 : help@fastcampus.co.kr
+            <br>전화번호 : 02-501-9396</p>
+          <p class="position">주소 : 서울시 강남구 논현1동 2-9<br>대기빌딩 1,4층</p>
+        </div>
+        <div class="col-4">
+              <p class="title">ETC</p>
+              <p><a href="#" class="click">이용약관</a><br><a href="#" class="click">개인정보취급방침</a></p>
+              <p class="about">환불 규정<br>About FC</p>
+        </div>
+      </div>
+      <div class="about_blink_down"></div>
+    </div>
+
+        <div class="bottom_footer">
+          <div class="wrapper clearfix last_footer">
+            <p>@2014 All right reserved. | Hosting by (주)코드엠</p>
+          </div>
+        </div>
+  </footer>
+</body>
+</html>
+***
